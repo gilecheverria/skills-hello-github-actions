@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions :octocat: :cake: 🥇
+# Hello GitHub Actions :octocat: :cake: 🥇 ☹️
 
 _Create a GitHub Action and use it in a workflow._
 
